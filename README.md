@@ -1,5 +1,7 @@
 # mern-workshop
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CloudNativeJS/mern-workshop.svg)](https://greenkeeper.io/)
+
 Instructions and code to deploy MongoDB, a backend Node.js microservice that connects to it, and a frontend that connects to the backend.
 
 The frontend uses React and is served with nginx.
